@@ -15,13 +15,44 @@ public class MyRoomba extends Roomba{
 	@Override
 	public Move makeMove() {
 		/*TODO: Make this method better. Here's an example Roomba that always turns a random direction*/
-		
+		// if(this.frontBumper){
+		// 	return Move.TURNCLOCKWISE;
+		// }else{
+		// 	return Move.FORWARD;
+		// }
 		//if we bump into something, turn
-		if(this.frontBumper) 
-			return Move.TURNCLOCKWISE;
-		
+		// if(this.frontBumper){
+		// 	double r = Math.random();
+		// 	if(r < 0.5)
+		// 	return Move.TURNCLOCKWISE;
+		// 	return Move.TURNCOUNTERCLOCKWISE;
+			
+		// }
+			
+		if(this.wallSensor){
+			double r = Math.random();
+			if(r < 0.5){
+				return Move.TURNCLOCKWISE;
+			}else if(r < 0.75){
+				return Move.TURNCOUNTERCLOCKWISE;
+			}else{
+				return Move.FORWARD;
+			}
+		}
+
+		if(this.infraredSensor < 5){
+			double r = Math.random();
+			if(r < 0.5)
+				return Move.TURNCLOCKWISE;
+			else if(r < 0.75){
+				return Move.TURNCOUNTERCLOCKWISE;
+			}
+		}
 		//otherwise just move forward
-		return Move.FORWARD;
+		double r = Math.random();
+		if(r < 0.99)
+			return Move.FORWARD;
+		return Move.TURNCLOCKWISE;
 	}
 	
 }

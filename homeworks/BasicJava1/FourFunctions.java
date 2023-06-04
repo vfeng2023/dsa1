@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -59,26 +60,28 @@ class FourFunctions{
     }
 
     public static double median(int[] arr){
-        int mincount = 0;
-        int maxcount = 0;
-        int max2 = secondMax(arr);
-        int min2 = secondMin(arr);
-        for(int n:arr){
-            if( n < max2 && n > min2){
-                return n;
+        // int mincount = 0;
+        // int maxcount = 0;
+        // int max2 = secondMax(arr);
+        // int min2 = secondMin(arr);
+        // for(int n:arr){
+        //     if( n < max2 && n > min2){
+        //         return n;
             
-            }else if(n==min2){
-                mincount += 1;
-            }else if(n==max2){
-                maxcount += 1;
-            }
-        }
-        if(mincount >= maxcount){
-            return min2;
-        }
-        else{
-            return max2;
-        }
+        //     }else if(n==min2){
+        //         mincount += 1;
+        //     }else if(n==max2){
+        //         maxcount += 1;
+        //     }
+        // }
+        // if(mincount >= maxcount){
+        //     return min2;
+        // }
+        // else{
+        //     return max2;
+        // }
+        Arrays.sort(arr);
+        return arr[2];
         //return min2 ;
     }
 

@@ -27,7 +27,8 @@ public class RoombaSimulator extends TimerTask {
 	
 	
 	public void simulate() {
-		t.scheduleAtFixedRate(this, 1000, (int)((1.0/(double)framerate)*1000));
+		//t.scheduleAtFixedRate(this, 1000, (int)((1.0/(double)framerate)*1000));
+		t.scheduleAtFixedRate(this, 1000, (int)((1.0/(double)framerate)*100));
 	}
 	
 	protected Room getRoom() {return room;}
