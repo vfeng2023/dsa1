@@ -6,20 +6,31 @@ package casino;
  */
 public class DeckStack {
 	
+	private Deck[] decks;
 	public DeckStack(int numDecks) {
-		
+		decks = new Deck[numDecks];
+		for(int i=0; i < decks.length; i++){
+			decks[i] = new Deck();
+		}
 	}
 	
 	public Card dealTopCard() {
-		return null;
+		int idx = (int)(Math.random()*decks.length);
+		return decks[idx].dealTopCard();
 	}
 	
 	protected void restoreDecks() {
-		
+		for(Deck d:decks){
+			d.shuffle();
+		}
 	}
 	
 	public int cardsLeft() {
-		return -1;
+		int totalleft = 0;
+		for(int i=0; i < decks.length; i++){
+			totalleft += decks[i].cardsLeft();
+		}
+		return totalleft;
 	}
 	
 	
