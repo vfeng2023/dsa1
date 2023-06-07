@@ -11,6 +11,9 @@ public class BinaryTree<T> {
 	}
 	private String getInOrder(TreeNode<T> curNode) {
 		//TODO: return the in order traversal of this tree, space separated
+		if(curNode==null) return "";
+		//traverse left, then root, then right
+		return getInOrder(curNode.left) + " " + curNode.data + " " + getInOrder(curNode.right);
 	}
 	
 	public String getPreOrder() {
@@ -18,6 +21,9 @@ public class BinaryTree<T> {
 	}
 	private String getPreOrder(TreeNode<T> curNode) {
 		//TODO: return the pre order traversal of this tree, space separated
+		//root left right
+		if(curNode==null) return "";
+		return curNode.data + getPreOrder(curNode.left) + getPreOrder(curNode.right);
 	}
 	
 	public String getPostOrder() {
@@ -25,6 +31,9 @@ public class BinaryTree<T> {
 	}
 	private String getPostOrder(TreeNode<T> curNode) {
 		//TODO: return the post order traversal of this tree, space separated
+		//return left right root
+		if(curNode==null) return "";
+		return getPostOrder(curNode.left) + getPostOrder(curNode.right) + curNode.data;
 	}
 
 	//------------------------------------------------------------------------
