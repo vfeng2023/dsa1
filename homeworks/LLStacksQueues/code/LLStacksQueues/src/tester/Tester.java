@@ -11,6 +11,7 @@ import java.util.LinkedList;
  */
 public class Tester {
 	
+	//public static int NUM_TESTS = 5000;
 	public static int NUM_TESTS = 5000;
 	
 	
@@ -22,6 +23,9 @@ public class Tester {
 		
 		//check forwards
 		while(!it2.isPastEnd()) {
+			//System.out.println(it1.value())
+			//T it1val = it1.next();
+			//System.out.print(it1val.toString() + it2.value().toString());
 			if(!it1.next().equals(it2.value())) return false;
 			it2.moveForward();
 		}
@@ -53,9 +57,12 @@ public class Tester {
 		/* Insert a bunch of random integers into the list */
 		System.out.print("Checking inserting at tail of list...");
 		for(int i=0; i<NUM_TESTS; i++) {
+			//System.out.println(i);
 			int rand = (int)Math.floor(Math.random()*1000);
 			compList.add(rand);
 			studList.insertAtTail(rand);
+			//System.out.println(compList.toString());
+			//System.out.println(studList.toString());
 			if(!compareLists(compList, studList)) {
 				System.out.println("ERROR: Inserting at tail failed OR .get() failed (when comparing)");
 				System.exit(1);
@@ -108,8 +115,11 @@ public class Tester {
 		for(int i=0; i<NUM_TESTS; i++) {
 			int rand = (int)Math.floor(Math.random()*1000);
 			int ind = (int)(Math.random()*compList.size());
+			// System.out.println("I "+ind);
 			compList.add(ind, rand);
 			studList.insertAt(ind, rand);
+			// System.out.println("compList: "+compList.toString());
+			// System.out.println("studList: "+ studList.toString());
 			if(!compareLists(compList, studList)) {
 				System.out.println("ERROR: Inserting at generic index (i.e, insertAt()) failed");
 				System.exit(1);

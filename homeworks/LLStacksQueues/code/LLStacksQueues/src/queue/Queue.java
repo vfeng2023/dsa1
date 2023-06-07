@@ -17,7 +17,8 @@ public class Queue<T> implements IQueue<T>{
 	 * Constructor: Initialize the inner list
 	 */
 	public Queue(){
-		/* TODO: Implement this method */  
+		/* TODO: Implement this method */ 
+		list = new LinkedList<>();
 	}
 	
 	/**
@@ -25,21 +26,23 @@ public class Queue<T> implements IQueue<T>{
 	 */
 	public int size() { 
 		/* TODO: Implement this method */
-		return 0;
+		return list.size();
 	}
 	
 	/**
 	 * Simply add the data to the tail of the linked list
 	 */
 	public void enqueue(T data) {
-		/* TODO: Implement this method */  
+		/* TODO: Implement this method */
+		list.insertAtTail(data);  
 	}
 	
 	/**
 	 * Simply remove data from the head of the list, throw exception if list is empty.
 	 */
 	public T dequeue(){		
-		/* TODO: Implement this method */  
+		/* TODO: Implement this method */
+		return list.removeAtHead();  
 	}
 	
 	
