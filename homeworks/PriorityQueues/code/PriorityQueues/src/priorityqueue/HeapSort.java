@@ -7,6 +7,15 @@ public class HeapSort {
 	 * */
 	public static <T extends Comparable<T>> void heapSort(T[] list) {
 		/* TODO: IMPLEMENT THIS METHOD */
+
+		MinHeap<T> heap = new 	MinHeap<>();
+		for(int i=0; i < list.length; i++){
+			heap.push(list[i]);
+		}
+
+		for(int i=0; i < list.length; i++){
+			list[i] = heap.poll();
+		}
 	}
 
 }

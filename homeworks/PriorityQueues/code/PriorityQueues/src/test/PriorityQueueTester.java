@@ -37,7 +37,7 @@ public class PriorityQueueTester {
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) {
 		
-		int NUM_TESTS = 40000;
+		int NUM_TESTS = 400000;
 		
 		//TEST 1: TESTING PUSH AND POLL
 		
