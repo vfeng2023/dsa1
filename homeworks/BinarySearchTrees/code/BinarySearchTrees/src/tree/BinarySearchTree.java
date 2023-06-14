@@ -18,21 +18,21 @@ public class BinarySearchTree<T extends Comparable<T>> extends BinaryTree<T> imp
 	 * @return a reference to the new root of the subtree
 	 */
 	protected TreeNode<T> insert(T data, TreeNode<T> curNode) {
-		//TODO: Implement this method DONE
+		//Implement this method DONE
 		//if currnode is null, that means the locations has been found
 		if(curNode==null){
-			return new TreeNode<T>(data, 0);
+			return new TreeNode<T>(data);
 		}
 		//find the parent node which is the data's would be parent
 		//set the parents child to a recursive call of the child
-		//TODO: Update height
+		//Update height
 		if(data.compareTo(curNode.data) < 0){
 			curNode.left = insert(data, curNode.left);
 		}else if(data.compareTo(curNode.data) > 0){
 			curNode.right = insert(data, curNode.right);
 		}else{}
-		int leftheight = curNode.left==null? -1:curNode.left.height;
-		int rightheight = curNode.right==null? -1:curNode.right.height;
+		int leftheight = height(curNode.left);
+		int rightheight = height(curNode.right);
 		curNode.height = 1 + Math.max(leftheight,rightheight);
 		return curNode;
 	}
@@ -94,8 +94,8 @@ public class BinarySearchTree<T extends Comparable<T>> extends BinaryTree<T> imp
 			}
 			//return the child
 		}
-		int leftheight = curNode.left==null? -1:curNode.left.height;
-		int rightheight = curNode.right==null? -1:curNode.right.height;
+		int leftheight = height(curNode.left);
+		int rightheight = height(curNode.right);
 		curNode.height = 1 + Math.max(leftheight,rightheight);
 		return curNode;
 	}

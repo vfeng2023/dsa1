@@ -1,5 +1,7 @@
 package sorting;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -30,6 +32,8 @@ public class Tester {
 		BasicSorts.insertionSort(ins);
 		System.out.print("Done...checking if sorted correctly...");
 		checkSorted(list, ins);
+		//System.out.println("\nOriginatl: " + Arrays.toString(list));
+		//System.out.println("Sorted: " + Arrays.toString(ins));
 		System.out.println("DONE");
 	}
 	

@@ -1,0 +1,1008 @@
+S (0 ,4): ape
+E (0 ,12): rim
+E (0 ,16): vie
+S (0 ,22): aim
+SE(0 ,23): bon
+SE(0 ,27): lay
+S (0 ,31): old
+W (0 ,32): mow
+E (0 ,41): bad
+W (0 ,43): dab
+SW(0 ,43): din
+W (0 ,45): gad
+SE(0 ,45): get
+S (0 ,46): ret
+SW(0 ,47): dew
+S (1 ,1): yen
+S (1 ,4): peg
+SE(1 ,4): pep
+S (1 ,5): sen
+W (1 ,5): spa
+SW(1 ,7): bon
+SE(1 ,9): our
+SE(1 ,13): dey
+SE(1 ,26): fan
+SE(1 ,26): fang
+E (1 ,28): ask
+E (1 ,31): lot
+E (1 ,33): tag
+SE(1 ,33): tow
+E (1 ,39): bug
+E (2 ,3): pee
+SW(2 ,5): ego
+W (2 ,7): foe
+S (2 ,20): vee
+NE(2 ,21): sib
+SE(2 ,23): root
+NW(2 ,25): nob
+E (2 ,26): gas
+SW(2 ,27): amok
+W (2 ,28): sag
+E (2 ,31): dim
+NE(2 ,31): doe
+SW(2 ,31): dug
+W (2 ,33): mid
+NW(2 ,33): moo
+W (2 ,40): wife
+NE(2 ,45): wed
+SE(2 ,45): wop
+N (2 ,47): tid
+NW(3 ,3): boy
+NE(3 ,5): nob
+NW(3 ,6): pep
+NE(3 ,9): hum
+SW(3 ,9): hob
+N (3 ,11): rim
+SE(3 ,17): our
+S (3 ,18): due
+E (3 ,18): due
+SE(3 ,22): yak
+SW(3 ,24): oat
+W (3 ,25): you
+SW(3 ,28): not
+S (3 ,32): god
+S (3 ,40): pew
+E (3 ,40): pow
+SE(3 ,41): orb
+W (3 ,42): wop
+SW(3 ,42): wow
+E (3 ,45): soy
+SE(3 ,45): sit
+E (4 ,2): got
+W (4 ,4): tog
+SE(4 ,5): pax
+E (4 ,9): awl
+S (4 ,10): woo
+NE(4 ,10): wry
+S (4 ,11): leg
+NE(4 ,12): bye
+SE(4 ,12): bag
+NE(4 ,16): joy
+SW(4 ,16): jig
+NW(4 ,17): via
+E (4 ,19): hey
+S (4 ,23): ami
+N (4 ,24): toe
+NW(4 ,24): tum
+S (4 ,28): caw
+N (4 ,29): gay
+SW(4 ,29): gam
+E (4 ,38): woe
+W (4 ,42): roe
+NW(4 ,42): row
+SE(4 ,43): jaw
+E (4 ,45): sip
+SW(4 ,45): say
+NW(4 ,47): pow
+N (5 ,6): alp
+SW(5 ,6): ape
+W (5 ,9): fib
+E (5 ,9): foe
+E (5 ,11): era
+E (5 ,12): raj
+SE(5 ,12): rag
+N (5 ,13): any
+W (5 ,13): are
+W (5 ,14): jar
+E (5 ,15): ice
+N (5 ,20): fee
+W (5 ,20): free
+NE(5 ,22): tao
+SE(5 ,22): tin
+NW(5 ,23): min
+SE(5 ,25): ova
+NE(5 ,26): ton
+NE(5 ,26): tony
+NW(5 ,26): too
+N (5 ,31): rev
+N (5 ,32): dog
+E (5 ,32): dye
+E (5 ,33): yea
+NE(5 ,40): wow
+E (5 ,43): bad
+NW(5 ,43): brow
+SE(5 ,43): bin
+N (5 ,44): alp
+W (5 ,45): dab
+SE(5 ,45): den
+S (5 ,46): key
+SW(5 ,47): ten
+N (6 ,11): gel
+NW(6 ,14): gab
+SE(6 ,16): oak
+SW(6 ,18): haze
+S (6 ,22): pin
+N (6 ,25): moo
+NW(6 ,37): min
+NW(6 ,37): mind
+SE(6 ,38): jug
+NW(6 ,42): vee
+S (6 ,49): rod
+SE(7 ,2): put
+N (7 ,3): foe
+E (7 ,3): fee
+W (7 ,6): vee
+N (7 ,10): zoo
+NW(7 ,14): gar
+SW(7 ,20): bop
+N (7 ,21): jot
+NW(7 ,24): nit
+NE(7 ,27): awl
+SW(7 ,28): fad
+SW(7 ,28): fade
+E (7 ,35): crag
+NE(7 ,35): cup
+SW(7 ,35): cow
+E (7 ,36): rag
+N (7 ,37): amp
+W (7 ,37): arc
+W (7 ,38): gar
+E (7 ,38): guy
+N (7 ,41): hue
+SE(7 ,41): huh
+W (7 ,42): thy
+S (7 ,44): buy
+NE(7 ,45): net
+NW(7 ,45): nib
+NE(8 ,7): fir
+E (8 ,8): phi
+NW(8 ,16): zag
+N (8 ,22): nip
+W (8 ,32): yet
+W (8 ,33): lye
+S (8 ,34): ohm
+E (8 ,34): oak
+NE(8 ,35): arm
+W (8 ,38): yak
+N (8 ,39): bum
+SW(8 ,39): beg
+SE(8 ,47): tar
+NW(8 ,48): one
+W (8 ,49): dot
+SW(9 ,5): age
+W (9 ,6): sat
+NW(9 ,6): sue
+NW(9 ,10): chi
+S (9 ,12): lee
+NW(9 ,13): bel
+S (9 ,15): eat
+S (9 ,16): felt
+SW(9 ,16): fan
+SE(9 ,17): fry
+S (9 ,19): may
+S (9 ,25): yea
+NE(9 ,25): yea
+N (9 ,31): bet
+S (9 ,33): why
+N (9 ,34): hoe
+NE(9 ,34): harm
+NW(9 ,38): ear
+SE(9 ,40): mid
+NW(9 ,43): huh
+N (9 ,45): yen
+SW(9 ,48): ala
+SW(10 ,4): get
+NW(10 ,6): bay
+SW(10 ,6): bug
+W (10 ,13): den
+SW(10 ,15): ana
+SE(10 ,15): alb
+W (10 ,19): ark
+W (10 ,26): hex
+S (10 ,27): cab
+NE(10 ,28): cot
+E (10 ,30): etc
+E (10 ,30): etch
+NW(10 ,33): hue
+E (10 ,40): vii
+E (10 ,44): wop
+NE(10 ,45): out
+SE(10 ,45): oat
+W (10 ,46): pow
+NE(10 ,47): lad
+SW(10 ,47): lac
+NW(10 ,49): rat
+SW(10 ,49): rut
+SE(11 ,0): fig
+N (11 ,7): sun
+SW(11 ,9): eye
+W (11 ,11): hue
+N (11 ,12): eel
+S (11 ,12): end
+NW(11 ,17): wee
+N (11 ,19): yam
+NW(11 ,20): zap
+NE(11 ,22): tum
+SW(11 ,22): tug
+N (11 ,23): buy
+S (11 ,31): par
+NW(11 ,40): gee
+NW(11 ,42): dim
+NE(11 ,44): sou
+NE(11 ,46): ala
+NW(12 ,6): rug
+NE(12 ,9): gun
+SW(12 ,10): flex
+SE(12 ,10): for
+NE(12 ,11): bed
+NW(12 ,11): buy
+N (12 ,12): nee
+S (12 ,13): auk
+NE(12 ,13): ana
+S (12 ,18): con
+S (12 ,23): fly
+SW(12 ,24): ell
+S (12 ,30): bib
+N (12 ,31): apt
+S (12 ,32): cox
+W (12 ,32): cab
+E (12 ,32): cod
+NW(12 ,33): out
+SE(12 ,43): bub
+NW(12 ,47): tao
+NE(13 ,0): tie
+S (13 ,1): yon
+S (13 ,2): gob
+N (13 ,6): try
+NE(13 ,7): eye
+S (13 ,8): sen
+W (13 ,8): set
+SE(13 ,8): soy
+SE(13 ,8): soya
+S (13 ,9): loy
+W (13 ,10): else
+W (13 ,12): doe
+S (13 ,16): con
+SW(13 ,16): col
+N (13 ,19): say
+W (13 ,19): soy
+NE(13 ,19): soy
+SE(13 ,19): sue
+NE(13 ,20): gut
+N (13 ,21): guy
+S (13 ,22): flex
+NE(13 ,23): lea
+N (13 ,24): sec
+SE(13 ,26): pun
+SE(13 ,26): punk
+S (13 ,27): gut
+W (13 ,30): ivy
+N (13 ,31): rap
+N (13 ,31): rapt
+NE(13 ,35): hex
+S (13 ,36): moo
+E (13 ,37): car
+SW(13 ,37): cox
+S (13 ,38): aura
+E (14 ,0): woo
+W (14 ,3): coo
+NE(14 ,3): cud
+SW(14 ,6): col
+NW(14 ,11): keg
+S (14 ,12): rod
+SE(14 ,17): gum
+NW(14 ,19): job
+W (14 ,25): ivy
+N (14 ,30): bib
+SE(14 ,30): bun
+W (14 ,35): hip
+SW(14 ,35): hop
+SW(14 ,35): hope
+E (14 ,40): mop
+S (14 ,42): pus
+SW(14 ,42): pee
+SW(14 ,42): peed
+NW(14 ,45): bub
+N (15 ,2): bog
+E (15 ,2): bay
+NE(15 ,4): yet
+S (15 ,6): iii
+SE(15 ,14): loot
+NW(15 ,17): cog
+NE(15 ,19): lug
+NE(15 ,21): ell
+NE(15 ,24): dip
+SE(15 ,24): daze
+SE(15 ,25): act
+W (15 ,26): wad
+SW(15 ,26): war
+N (15 ,27): tug
+NW(15 ,27): type
+E (15 ,33): box
+NE(15 ,34): ohm
+SW(15 ,37): rep
+S (15 ,38): rap
+W (15 ,43): hue
+NW(15 ,49): toy
+W (16 ,11): ail
+NW(16 ,13): coke
+SE(16 ,13): cod
+NW(16 ,19): mug
+SE(16 ,19): mug
+NE(16 ,20): fell
+NE(16 ,21): key
+NE(16 ,21): keys
+E (16 ,36): era
+W (16 ,38): are
+N (16 ,42): sup
+SW(17 ,3): gin
+E (17 ,5): kin
+N (17 ,6): iii
+SE(17 ,11): did
+NW(17 ,12): ray
+E (17 ,15): cog
+SW(17 ,15): cud
+W (17 ,24): red
+NE(17 ,24): raw
+NW(17 ,24): roe
+W (17 ,29): ret
+S (17 ,30): pun
+SE(17 ,30): pod
+E (17 ,33): bop
+SE(17 ,33): beau
+NE(17 ,35): per
+SW(17 ,35): pep
+N (17 ,38): par
+NW(17 ,38): pro
+NE(17 ,39): deep
+NE(17 ,47): yet
+SE(17 ,47): yea
+E (18 ,6): qua
+NW(18 ,8): ani
+SE(18 ,9): mid
+E (18 ,13): sud
+NE(18 ,13): soon
+SW(18 ,13): sad
+NW(18 ,17): too
+NW(18 ,17): tool
+NW(18 ,21): gum
+W (18 ,25): puff
+NW(18 ,25): pro
+E (18 ,26): sex
+SE(18 ,31): odd
+NW(18 ,35): cop
+W (18 ,36): ace
+SE(18 ,42): cut
+SW(18 ,44): nut
+N (18 ,45): fop
+E (18 ,46): plea
+N (18 ,47): lye
+E (18 ,47): lea
+S (19 ,3): end
+S (19 ,4): mop
+SW(19 ,5): god
+N (19 ,7): sun
+SW(19 ,10): ibis
+SE(19 ,10): idle
+N (19 ,12): air
+S (19 ,13): dey
+NW(19 ,13): did
+SW(19 ,18): cat
+N (19 ,19): thy
+E (19 ,19): toy
+NW(19 ,20): ohm
+N (19 ,27): yet
+S (19 ,27): yin
+S (19 ,28): eve
+W (19 ,29): dey
+NE(19 ,33): pep
+E (19 ,36): hen
+SE(19 ,38): nab
+SW(19 ,40): yak
+E (20 ,1): tun
+W (20 ,3): nut
+W (20 ,5): yon
+SW(20 ,8): shy
+N (20 ,9): bum
+NW(20 ,11): dim
+S (20 ,13): eye
+NE(20 ,13): end
+N (20 ,17): act
+N (20 ,28): vex
+NW(20 ,29): tee
+SW(20 ,31): run
+SE(20 ,31): reef
+W (20 ,38): sou
+NW(20 ,38): sea
+SE(20 ,38): sud
+NE(20 ,42): tun
+SE(20 ,42): too
+SW(20 ,44): tot
+W (20 ,46): put
+S (20 ,48): hoc
+SW(20 ,49): hoe
+NE(21 ,3): dog
+NW(21 ,3): dun
+E (21 ,4): pan
+W (21 ,6): nap
+NE(21 ,12): lend
+SE(21 ,12): lea
+SE(21 ,16): thy
+W (21 ,18): fit
+NE(21 ,18): fro
+NE(21 ,18): frog
+SW(21 ,23): pie
+E (21 ,26): one
+E (21 ,27): net
+N (21 ,28): eve
+W (21 ,29): ten
+SW(21 ,29): tip
+NW(21 ,39): use
+NW(21 ,40): ban
+NW(21 ,41): thy
+E (21 ,42): hoy
+N (21 ,48): ohm
+NW(21 ,48): ohm
+N (22 ,2): glum
+E (22 ,3): log
+SW(22 ,3): lip
+SE(22 ,4): odd
+N (22 ,5): gay
+SW(22 ,5): gar
+N (22 ,7): shy
+NE(22 ,7): sib
+N (22 ,13): eye
+N (22 ,13): eyed
+SE(22 ,15): spy
+N (22 ,19): wert
+S (22 ,21): red
+SW(22 ,24): too
+E (22 ,27): win
+NE(22 ,27): wet
+SW(22 ,27): whee
+NW(22 ,31): jut
+NW(22 ,31): jute
+S (22 ,42): tab
+NE(22 ,42): tot
+NW(22 ,46): jut
+E (23 ,4): add
+NW(23 ,4): all
+W (23 ,5): day
+S (23 ,7): wad
+SE(23 ,10): jam
+S (23 ,13): cat
+SE(23 ,18): yah
+S (23 ,19): fat
+SE(23 ,19): fig
+SW(23 ,24): jut
+NE(23 ,27): pit
+SE(23 ,32): nee
+SE(23 ,32): need
+NW(23 ,34): fee
+E (23 ,41): yah
+E (23 ,42): ahoy
+W (23 ,43): hay
+E (23 ,43): hoy
+E (23 ,47): zip
+N (24 ,2): wig
+SW(24 ,2): was
+NE(24 ,3): rag
+SW(24 ,3): rob
+SW(24 ,3): robe
+W (24 ,9): qua
+W (24 ,9): quad
+W (24 ,12): sat
+N (24 ,13): ace
+E (24 ,19): aid
+W (24 ,26): dey
+E (24 ,27): say
+NE(24 ,27): sin
+S (24 ,28): awl
+N (24 ,29): yon
+W (24 ,31): loy
+E (24 ,31): lie
+SW(24 ,34): ago
+SE(24 ,39): gnu
+W (24 ,41): keg
+N (24 ,42): bat
+N (24 ,42): bath
+S (24 ,47): man
+SE(25 ,1): ado
+SE(25 ,2): orb
+S (25 ,4): tab
+SW(25 ,5): tao
+SW(25 ,11): boa
+E (25 ,14): jut
+NW(25 ,16): tea
+NE(25 ,18): can
+NE(25 ,19): tie
+NW(25 ,20): hay
+E (25 ,22): the
+NW(25 ,23): hoe
+SW(25 ,26): noon
+SW(25 ,31): raj
+S (25 ,32): hoe
+SW(25 ,33): gout
+SW(25 ,34): ere
+NW(25 ,36): oaf
+SE(25 ,40): nun
+S (25 ,41): auk
+NE(25 ,47): amp
+S (25 ,48): hoe
+S (25 ,49): fee
+SW(25 ,49): for
+N (26 ,0): sax
+S (26 ,0): sea
+NE(26 ,0): saw
+E (26 ,3): raj
+W (26 ,5): jar
+SE(26 ,8): jar
+S (26 ,9): gag
+SE(26 ,9): gel
+W (26 ,11): fog
+SW(26 ,12): nor
+E (26 ,16): tin
+W (26 ,18): nit
+S (26 ,23): run
+E (26 ,23): rho
+N (26 ,24): hey
+E (26 ,24): hoy
+S (26 ,30): art
+SW(26 ,32): out
+E (26 ,33): rod
+NE(26 ,35): doe
+E (26 ,38): pep
+W (26 ,40): pep
+N (26 ,48): ohm
+N (26 ,48): ohmic
+NW(26 ,48): oak
+E (27 ,2): sob
+NE(27 ,3): oat
+N (27 ,4): bat
+E (27 ,14): ash
+SE(27 ,14): aft
+W (27 ,15): say
+NW(27 ,15): sit
+SE(27 ,17): tau
+NE(27 ,19): jig
+SW(27 ,19): jab
+E (27 ,22): quo
+NE(27 ,29): jar
+E (27 ,30): rue
+NE(27 ,32): ere
+SE(27 ,32): era
+NW(27 ,35): cog
+SW(27 ,39): fee
+NW(27 ,42): nun
+W (27 ,43): ink
+SW(27 ,46): had
+SE(27 ,46): hat
+NE(28 ,0): aid
+SE(28 ,3): sap
+NE(28 ,5): via
+N (28 ,9): gag
+NW(28 ,10): raj
+NW(28 ,11): leg
+N (28 ,12): yon
+E (28 ,17): wax
+SE(28 ,17): wed
+S (28 ,21): keg
+S (28 ,23): nil
+NE(28 ,23): noon
+SE(28 ,23): not
+NE(28 ,37): rue
+W (28 ,41): ace
+W (28 ,49): qua
+SE(29 ,1): coy
+NW(29 ,4): ass
+SE(29 ,4): ape
+NW(29 ,7): gee
+SE(29 ,16): toe
+S (29 ,17): boo
+S (29 ,29): sou
+W (29 ,31): his
+SE(29 ,33): aim
+NW(29 ,34): are
+W (29 ,36): via
+NE(29 ,40): wan
+N (29 ,47): car
+NE(29 ,47): cue
+NW(29 ,49): our
+NW(30 ,3): six
+NW(30 ,5): pass
+N (30 ,12): hoy
+NW(30 ,19): dew
+SW(30 ,19): dey
+E (30 ,23): lit
+W (30 ,25): til
+NW(30 ,25): ton
+N (30 ,30): hit
+S (30 ,31): glib
+NW(30 ,35): ear
+W (30 ,37): woe
+SE(30 ,37): way
+N (30 ,39): cue
+NE(30 ,41): mow
+SW(30 ,41): may
+N (30 ,42): hoi
+E (30 ,44): mop
+S (30 ,48): who
+W (31 ,5): fay
+N (31 ,9): buy
+NW(31 ,9): big
+E (31 ,11): boy
+S (31 ,13): yank
+E (31 ,16): toe
+NE(31 ,16): toe
+NW(31 ,25): vii
+S (31 ,35): mob
+NW(31 ,36): pea
+NW(31 ,36): pear
+SE(31 ,36): pet
+S (31 ,41): men
+NE(31 ,44): you
+S (31 ,46): bag
+E (31 ,46): bah
+NE(31 ,46): bit
+S (31 ,48): hot
+SE(32 ,1): oar
+NE(32 ,3): cap
+SW(32 ,3): case
+W (32 ,7): mien
+NE(32 ,11): roe
+E (32 ,12): sad
+N (32 ,13): aye
+NW(32 ,15): hue
+NW(32 ,18): sod
+NW(32 ,21): led
+SW(32 ,23): toil
+SE(32 ,24): fee
+SW(32 ,28): owe
+E (32 ,33): moo
+W (32 ,36): coo
+N (32 ,38): oaf
+NE(32 ,39): yam
+NW(32 ,39): yaw
+SW(32 ,43): new
+E (32 ,45): car
+SE(33 ,2): arc
+SE(33 ,3): gas
+E (33 ,4): hoe
+E (33 ,10): upon
+S (33 ,11): pass
+SE(33 ,11): pea
+N (33 ,13): nay
+SW(33 ,22): oil
+W (33 ,26): vet
+SW(33 ,27): wed
+SE(33 ,27): wig
+W (33 ,29): sow
+SE(33 ,29): sue
+SE(33 ,29): suey
+S (33 ,30): gull
+S (33 ,30): gully
+SW(33 ,31): bug
+S (33 ,34): yon
+W (33 ,37): reb
+NE(33 ,37): roe
+S (33 ,38): tip
+N (33 ,46): gab
+NE(34 ,1): sac
+NW(34 ,6): yon
+SE(34 ,7): cry
+NE(34 ,9): our
+S (34 ,11): ass
+NE(34 ,12): end
+SW(34 ,14): rat
+W (34 ,16): cur
+NW(34 ,16): cud
+SW(34 ,20): bad
+NW(34 ,23): sole
+SW(34 ,23): sex
+E (34 ,25): led
+SE(34 ,26): eel
+W (34 ,29): hid
+W (34 ,29): hide
+NW(34 ,29): how
+N (34 ,30): ugh
+SW(34 ,30): ugly
+S (34 ,32): pay
+SE(34 ,32): pep
+NE(34 ,35): fee
+NW(34 ,41): why
+NW(34 ,42): gnu
+E (34 ,44): ass
+NW(34 ,45): son
+E (34 ,46): sib
+W (35 ,4): cozy
+NW(35 ,5): sag
+S (35 ,6): sop
+SW(35 ,7): woe
+S (35 ,8): rum
+SE(35 ,9): pit
+N (35 ,11): sap
+NE(35 ,11): sen
+NE(35 ,11): send
+SW(35 ,11): sib
+SE(35 ,14): beak
+S (35 ,15): pep
+S (35 ,19): awry
+W (35 ,20): lay
+NE(35 ,25): dew
+SE(35 ,29): glee
+N (35 ,30): lug
+E (35 ,30): lea
+SW(35 ,33): eye
+SE(35 ,34): net
+NW(35 ,35): cox
+N (35 ,38): pit
+NE(35 ,40): owe
+NW(35 ,40): out
+SW(35 ,42): sit
+SE(35 ,42): sun
+S (35 ,43): tun
+NE(35 ,43): tag
+S (35 ,44): con
+NW(35 ,44): cue
+SW(36 ,3): yip
+N (36 ,12): toe
+NE(36 ,12): tar
+NE(36 ,18): dab
+S (36 ,19): wry
+E (36 ,27): old
+NW(36 ,28): lee
+SW(36 ,28): lye
+E (36 ,30): loy
+SE(36 ,30): lee
+W (36 ,31): old
+N (36 ,32): yap
+NW(36 ,34): pep
+SW(36 ,34): pie
+NE(36 ,39): cow
+SW(36 ,39): cud
+N (36 ,40): coo
+W (36 ,45): you
+SE(36 ,47): ply
+N (37 ,0): doe
+N (37 ,6): posy
+SW(37 ,8): moat
+NW(37 ,11): tip
+N (37 ,15): pep
+W (37 ,15): put
+W (37 ,17): gap
+SE(37 ,17): gum
+W (37 ,21): our
+SE(37 ,25): gel
+E (37 ,29): eye
+W (37 ,31): eye
+NE(37 ,31): eye
+E (37 ,34): nit
+W (37 ,36): tin
+NW(37 ,36): ten
+SW(37 ,40): tau
+N (37 ,41): zip
+N (37 ,43): nut
+W (37 ,46): fun
+NE(38 ,5): spy
+NW(38 ,5): shy
+SW(38 ,7): oat
+S (38 ,16): wig
+N (38 ,20): cub
+E (38 ,20): cam
+NE(38 ,20): con
+E (38 ,21): amy
+N (38 ,22): min
+N (38 ,22): mine
+NW(38 ,22): mob
+E (38 ,23): yak
+N (38 ,28): oil
+SW(38 ,30): via
+S (38 ,31): boa
+E (38 ,31): beau
+NW(38 ,32): eel
+NW(38 ,36): dip
+SW(38 ,44): gun
+SW(38 ,46): dig
+NW(39 ,6): ash
+NW(39 ,6): ashy
+SE(39 ,7): fit
+NE(39 ,9): hit
+NW(39 ,11): fib
+S (39 ,12): chi
+NW(39 ,19): mug
+S (39 ,21): yon
+NE(39 ,23): wag
+S (39 ,24): quiz
+NW(39 ,25): oaf
+NW(39 ,27): leg
+SE(39 ,27): lam
+SW(39 ,28): amy
+S (39 ,30): cit
+NE(39 ,34): let
+N (39 ,42): pug
+SW(39 ,42): pod
+S (40 ,1): veil
+NE(40 ,5): tao
+SE(40 ,5): toe
+SW(40 ,11): joss
+W (40 ,22): woo
+SE(40 ,26): jet
+E (40 ,27): may
+NW(40 ,28): ale
+W (40 ,29): yam
+SW(40 ,37): age
+E (40 ,38): pip
+W (40 ,40): pip
+W (40 ,44): gun
+S (40 ,47): bam
+S (41 ,0): fir
+SW(41 ,7): eke
+SW(41 ,8): pew
+S (41 ,15): him
+NW(41 ,15): hey
+S (41 ,17): acre
+E (41 ,19): bun
+NE(41 ,19): boy
+S (41 ,23): mum
+W (41 ,25): aim
+E (41 ,25): aye
+W (41 ,28): bey
+NW(41 ,29): male
+N (41 ,30): tic
+SE(41 ,35): vis
+NW(41 ,36): gila
+S (41 ,38): auk
+SE(41 ,40): dot
+N (41 ,41): hood
+S (41 ,42): cut
+NW(41 ,46): talk
+S (41 ,49): real
+S (42 ,2): woe
+N (42 ,4): clan
+NW(42 ,11): hop
+E (42 ,14): biz
+N (42 ,17): cat
+S (42 ,27): jay
+SW(42 ,28): tau
+W (42 ,37): pie
+N (42 ,44): dug
+N (43 ,1): lie
+E (43 ,1): low
+E (43 ,4): dew
+NE(43 ,5): eke
+SE(43 ,5): eve
+W (43 ,6): wed
+SE(43 ,16): bed
+S (43 ,17): reb
+SW(43 ,21): quo
+N (43 ,23): mum
+SW(43 ,23): met
+SE(43 ,35): vine
+S (43 ,37): sun
+SW(43 ,37): sin
+SW(43 ,37): sink
+NW(43 ,41): seq
+NW(43 ,43): yuh
+N (43 ,46): yet
+SW(43 ,46): yuh
+S (43 ,49): ale
+E (44 ,0): use
+S (44 ,1): sop
+E (44 ,1): sea
+NE(44 ,1): sou
+NE(44 ,1): soul
+SW(44 ,4): sib
+SE(44 ,4): sow
+S (44 ,5): foe
+SW(44 ,8): few
+NW(44 ,9): use
+W (44 ,13): sac
+N (44 ,14): fib
+W (44 ,19): ace
+NE(44 ,23): key
+NE(44 ,24): blue
+N (44 ,25): sly
+W (44 ,30): ivy
+NE(44 ,33): dye
+SE(44 ,34): gnu
+SW(44 ,36): ink
+E (44 ,42): tao
+W (44 ,44): oat
+NW(44 ,46): pad
+N (45 ,0): cur
+SE(45 ,3): ice
+NW(45 ,7): eve
+SW(45 ,7): ewe
+E (45 ,11): wit
+NE(45 ,18): day
+E (45 ,19): out
+SW(45 ,21): tin
+SW(45 ,29): yip
+E (45 ,31): yen
+NE(45 ,36): auk
+S (45 ,38): hen
+N (45 ,40): viz
+NW(45 ,42): viz
+NW(45 ,44): hat
+S (45 ,47): aye
+E (46 ,3): ice
+N (46 ,4): cos
+E (46 ,12): far
+SE(46 ,13): auk
+SW(46 ,14): rep
+SE(46 ,14): rep
+W (46 ,16): air
+NE(46 ,16): abc
+SW(46 ,18): cup
+NE(46 ,20): item
+E (46 ,24): you
+E (46 ,27): mid
+W (46 ,29): dim
+NW(46 ,29): dey
+S (46 ,30): pest
+E (46 ,45): spy
+S (46 ,46): pee
+NE(46 ,46): pad
+SW(46 ,48): fee
+E (47 ,4): led
+SW(47 ,4): lay
+NE(47 ,5): ewe
+NE(47 ,9): yow
+N (47 ,13): eat
+E (47 ,16): cur
+E (47 ,17): urn
+S (47 ,19): nib
+NE(47 ,19): nit
+N (47 ,21): pet
+W (47 ,21): pun
+SE(47 ,24): gab
+E (47 ,28): eke
+SE(47 ,28): eft
+W (47 ,30): eke
+NW(47 ,37): dun
+NW(47 ,37): dung
+SE(47 ,37): die
+S (47 ,38): nip
+W (47 ,40): min
+W (47 ,40): mind
+E (47 ,41): kin
+E (47 ,45): nee
+SE(47 ,45): net
+NE(48 ,3): ale
+NE(48 ,4): sew
+NE(48 ,12): per
+NW(48 ,16): per
+NW(48 ,16): pert
+W (48 ,20): aim
+E (48 ,20): alp
+N (48 ,22): pen
+NW(48 ,30): ski
+NW(48 ,31): led
+W (48 ,49): col
+NW(48 ,49): coy
+N (49 ,3): sax
+W (49 ,5): his
+NW(49 ,7): wee
+N (49 ,19): bin
+E (49 ,20): non
+W (49 ,22): non
+NW(49 ,26): bag
+N (49 ,27): amp
+N (49 ,28): aye
+W (49 ,32): dot
+N (49 ,38): pin
+N (49 ,38): pine
+NW(49 ,47): ten
+N (49 ,48): roof
+1006 words found
+Found all words in 0.084 seconds.

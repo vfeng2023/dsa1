@@ -19,4 +19,7 @@ public class HashNode<K,V> {
 	public K getKey() {return this.key;}
 	public V getValue() {return this.value;}
 	public void setValue(V newValue) { this.value = newValue; }
+	public String toString(){
+		return "(" + this.key +" , " + this.value + ")";
+	}
 }

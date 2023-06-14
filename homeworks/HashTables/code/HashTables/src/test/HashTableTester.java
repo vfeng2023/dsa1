@@ -9,7 +9,7 @@ public class HashTableTester {
 
 	public static void main(String[] args) {
 		/* Num Tests */
-		final int NUM_TESTS = 1000;
+		final int NUM_TESTS = 250000;
 		
 		/* Make two hashmaps */
 		java.util.HashMap<Integer, Integer> cmp = new java.util.HashMap<Integer, Integer>();
