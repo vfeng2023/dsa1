@@ -36,7 +36,7 @@ public class ConcurrentTester implements Runnable{
 				q.enqueue(toAdd);
 				toAdd++;
 			}
-			System.out.println("DONE");
+			System.out.println("DONE with adding");
 		}
 		
 		
@@ -50,7 +50,7 @@ public class ConcurrentTester implements Runnable{
 				}
 				lastRemoved = rem;
 			}
-			System.out.println("DONE");
+			System.out.println("DONE with removing");
 		}
 		
 		this.time = System.currentTimeMillis() - t1;
